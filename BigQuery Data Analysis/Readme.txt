@@ -13,7 +13,6 @@ As one should, I have been keeping track of all my daily spending using Microsof
 
 ## Project Goals
 
-Here are the questions I would like the PowerBI dashboards to answer:
 
 - Find The unique Item.
 - Duplicate checking.
